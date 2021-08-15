@@ -2,9 +2,9 @@ About me 👤
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=greed69&label=Profile%20views&color=0e75b6&style=flat" alt="greed69" /> </p>
 
 
--🌱 currently learning python.
+-🌱 currently learning c#.
 
--🏹 current guidline is to learn more about web netwok requests.
+-🏹 current guidline is to become a full stack developer.
 
 -💻 Started in 2019.
 
