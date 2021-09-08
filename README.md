@@ -2,7 +2,7 @@ About me 👤
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=greed69&label=Profile%20views&color=0e75b6&style=flat" alt="greed69" /> </p>
 
 
--🌱 currently learning c#.
+-🌱 currently learning random things.
 
 -🏹 current guidline is to become a full stack developer.
 
